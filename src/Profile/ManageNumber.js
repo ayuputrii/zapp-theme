@@ -4,8 +4,6 @@ import HeaderNav from '../Components/HeaderNav';
 import Image from 'react-bootstrap/Image';
 import Axios from 'axios';
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-
 import { Link } from "react-router-dom";
 
 import '../assets/css/style1.css';
